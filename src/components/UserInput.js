@@ -43,7 +43,7 @@ const UserInput = () => {
                 editing={editing}
                 setEditing={setEditing}
                 currentUser={currentUser}
-                updatedUser={updateUser}
+                updateUser={updateUser}
               />
             </Fragment>
           ) : (
